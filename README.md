@@ -4,6 +4,7 @@
 
 PHP developers
 `include 'Cart.php';`
+
 JS developers
 `<script type="text/javascript" src="Cart.js"></script>`
 # Create Product Objects
@@ -82,7 +83,7 @@ Cart.getInstance().all();
 PHP Developers
 ```
 // reduce shirt by 1
-Cart::getInstance()->reduce(shirt,1);
+Cart::getInstance()->reduce($shirt,1);
 ```
 JS Developers
 ```
