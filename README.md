@@ -164,15 +164,17 @@ JS Developers
 ```
 Cart.getInstance().clear()
 ```
-# Get last item in to cart
+# Get last item in cart
 PHP Developers
 ```
 Cart::getInstance()->getLastItem()
 ```
-# Get first item in to cart
+# Get first item in cart
 PHP Developers
 ```
 Cart::getInstance()->getFirstItem()
 ```
+
+contact me :  dannykay.developer@gmail.com
 
 
